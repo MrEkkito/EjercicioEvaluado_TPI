@@ -3,7 +3,7 @@ namespace app\controllers;
 
 class InicioController{
     public function index(){
-        return $this->view('InicioView',['title'=>'Página de inicio']);
+        return $this->view('InicioView',['title'=>'Inicio']);
     }
 
     private function view($vista,$data=[]){

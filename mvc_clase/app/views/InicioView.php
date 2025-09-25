@@ -4,6 +4,7 @@
     <title><?= $title ?? "Sin título" ?></title>
 </head>
 <body>
-    <h1>Hola, esta es la vista inicio</h1>
+    <h1 class="Nombre">Pedro García</h1>
+    <p>Hola, esta es mi pagina web donde conoceras un poco acerca de mí </p>
 </body>
 </html>

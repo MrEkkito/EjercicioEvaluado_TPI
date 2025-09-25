@@ -3,7 +3,7 @@ namespace app\controllers;
 
 class LenguajeController{
     public function index(){
-        return $this->view('LenguajeView',['title'=>'Página de inicio']);
+        return $this->view('LenguajeView',['title'=>'Mis Lenguajes']);
     }
 
     private function view($vista,$data=[]){
