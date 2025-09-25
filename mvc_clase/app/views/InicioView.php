@@ -15,7 +15,7 @@
     <p>Hola, esta es mi pagina web donde conoceras un poco acerca de mí</p>
     <br>
     <h2>Quien soy?</h2>
-    <p>Mi nombre completo es Pedro David Ramos Garcia, tengo 21 años y estudio en la universidad de El Salvador
-    Me gustas los videojuegos y ultimamente tengo pasion por el desarrollo de ellos</p>
+    <p>Mi nombre completo es Pedro David Ramos Garcia, tengo 21 años y estudio en la universidad de El Salvador la carrera de ing de sistemas,
+    Me gustan los videojuegos y ultimamente tengo pasion por el desarrollo de ellos, me gusta la comida mexicana </p>
 </body>
 </html>

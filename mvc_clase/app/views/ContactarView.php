@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <a href="Contactar" >Contacto</a>
     </nav>
     <h1>Formulario de Contacto</h1>
-
+    <p>Si tienes alguna duda o necesitas mas información enviame un correo donde te responderes lo mas breve posible</p>
     <?php if ($enviado): ?>
         <p>Formulario enviado correctamente.</p>
     <?php endif; ?>

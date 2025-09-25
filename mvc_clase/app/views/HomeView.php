@@ -13,7 +13,6 @@
 </nav>
     <h1>Bienvenido a mi practica</h1>
     <h3>Que encontraras aqui?</h3>
-    <p>Un ejercicio practico donde estara mi información personal donde estara mi información personal, mis lengujaes</p>
-    <p>Etc-</p>
+    <p>Un ejercicio practico donde estara mi información personal, mis lenguajes favoritos y un espacio donde prodras contactarte conmigo</p>
 </body>
 </html>
