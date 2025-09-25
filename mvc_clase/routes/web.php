@@ -8,9 +8,7 @@ use app\controllers\ContactarController;
 use lib\Route;
 
 
-Route::get("/", function(){
-    echo "RUTA RAIZ";
-});
+Route::get("/", [HomeController::class,"index"]);
 
 Route::get("/Home", [HomeController::class,"index"]);
 Route::get("/Inicio", [InicioController::class,"index"]);
