@@ -2,15 +2,15 @@
 <html>
 <head>
     <title><?= $title ?? "Sin título" ?></title>
-    <nav class="nav-principal">
+<link rel="stylesheet" href="/mvc_clase/public/css/general.css">
+</head>
+<body>
+        <nav class="nav-principal">
     <a href="Home" >Home</a>
     <a href="Inicio" >Perfil</a>
     <a href="Lenguaje" >Lenguajes</a>
     <a href="Contactar" >Contacto</a>
     </nav>
-<link rel="stylesheet" href="/css/general.css">
-</head>
-<body>
     <h1 class="Nombre">Pedro García</h1>
     <p>Hola, esta es mi pagina web donde conoceras un poco acerca de mí</p>
     <br>

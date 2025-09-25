@@ -1,3 +1,31 @@
 body, html{
-    background-color: red;
+    background-color: #458188;
+    color: white;
+}
+
+.nav-principal{
+    background-color: #021926;
+    padding: 10px;
+    display: flex;        /* hace los links en línea */
+    gap: 15px;  
+}
+
+.nav-principal a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: background 0.3s;
+}
+
+.nav-principal a:hover {
+    background-color: #555;
+    border-radius: 4px;
+}
+
+.contacto{
+    background-color: #021926;
+}
+
+.contenedor{
+    align-items: center;
 }
