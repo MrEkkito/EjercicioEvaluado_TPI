@@ -1,9 +1,9 @@
 <?php
 namespace app\controllers;
 
-class HomeController{
+class ContactarController{
     public function index(){
-        return $this->view('HomeView',['title'=>'Página de inicio']);
+        return $this->view('ContactarView',['title'=>'Contacto']);
     }
 
     private function view($vista,$data=[]){

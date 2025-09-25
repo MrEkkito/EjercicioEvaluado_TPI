@@ -1,9 +1,9 @@
 <?php
 namespace app\controllers;
 
-class HomeController{
+class InicioController{
     public function index(){
-        return $this->view('HomeView',['title'=>'Página de inicio']);
+        return $this->view('InicioView',['title'=>'Página de inicio']);
     }
 
     private function view($vista,$data=[]){

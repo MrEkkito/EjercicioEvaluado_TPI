@@ -14,5 +14,8 @@ Route::get("/inicio/:flag", function($flag){
     return  array('title'=>"ejemplo");
 });
     
+Route::get("/Home", [HomeController::class,"index"]);
+
+
 Route::dispatch();
 ?>

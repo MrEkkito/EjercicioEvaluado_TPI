@@ -4,6 +4,6 @@
     <title><?= $title ?? "Sin título" ?></title>
 </head>
 <body>
-    <h1>Hola, esta es la vista Home</h1>
+    <h1>Hola, esta es la vista inicio</h1>
 </body>
 </html>
