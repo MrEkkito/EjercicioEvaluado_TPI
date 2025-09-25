@@ -14,6 +14,7 @@ Route::get("/Home", [HomeController::class,"index"]);
 Route::get("/Inicio", [InicioController::class,"index"]);
 Route::get("/Lenguaje", [LenguajeController::class,"index"]);
 Route::get("/Contactar", [ContactarController::class,"index"]);
+Route::post("/Contactar", [ContactarController::class,"index"]);
 
 Route::dispatch();
 ?>
